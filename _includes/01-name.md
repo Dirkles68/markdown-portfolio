@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Derek Smith // This is my portfolio. Dig it. 
