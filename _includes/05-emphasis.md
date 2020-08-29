@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I don't have any coding skills _yet_, but I hope to have some soon. 
+
+I am currently working on learning **python**, __SQL__, and polishing up my _very_ rusty GIS skills. 
+
